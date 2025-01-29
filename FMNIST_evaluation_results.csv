@@ -1,0 +1,8 @@
+Method,Accuracy (%),Avg Spikes/Neuron,Latency (s)
+Native SNN,89.34,0.21,2300.42
+Rate-Based,88.6,0.245,2700.1
+Surrogate Gradient Descent,91.25,0.22,1900.68
+Temporal Coding,92.12,0.18,2100.54
+Threshold Adjustment,87.1,0.265,1950.87
+Hybrid Approach,93.34,0.22,1750.32
+CNN,94.1,,
